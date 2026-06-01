@@ -14,6 +14,7 @@
 | [SimpleLLMFunc](https://github.com/NiJingzhe/SimpleLLMFunc) | 把 LLM 调用包装成**普通 Python 函数**，用 docstring 当 prompt，30 行代码就能搭一个带工具调用的 Agent。 | `AI 工具` `开发工具` | [@NiJingzhe](https://github.com/NiJingzhe) |
 | [Lambda](https://github.com/So3Lab/Lambda) | **本地优先的编程 Agent**，基于 SimpleLLMFunc 构建，内置持久 Python REPL、文件工具和 TUI 界面。 | `AI 工具` `开发工具` | [@NiJingzhe](https://github.com/NiJingzhe) |
 | [TermPDF](https://github.com/NiJingzhe/TermPDF) | **终端里的 PDF 阅读器**，Rust 实现，支持平滑滚动、搜索、链接跳转、演示模式和暗色主题。 | `开发工具` `效率工具` | [@NiJingzhe](https://github.com/NiJingzhe) [@NormalAlkene](https://github.com/NormalAlkene) |
+| [NeatCopy](https://github.com/StoneLL1/NeatCopy) | Windows **剪贴板文本清洗**工具，复制后按快捷键自动去除多余换行和空格，也支持接入大模型做翻译、润色、摘要。 | `效率工具` `AI 工具` | [@StoneLL1](https://github.com/StoneLL1) |
 
 > **标签参考**：`AI 工具` · `开发工具` · `科研代码` · `课程项目` · `Web 应用` · `移动应用` · `硬件 / 嵌入式` · `设计 / 创意` · `效率工具` · `社群项目` · `其他`
 
