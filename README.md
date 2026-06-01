@@ -9,7 +9,7 @@
 | 项目 | 简介 | 方向 | 作者 / 团队 |
 | --- | --- | --- | --- |
 | [Enter Screen Log](https://github.com/MuChengZJU/enter-screen-log) | 按 Enter 自动截屏的小工具（macOS + Windows），给后续 AI 分析或做教程用。 | `效率工具` | [@MuChengZJU](https://github.com/MuChengZJU) |
-| [Red Blue CP](https://github.com/MuChengZJU/red-blue-cp) | 红蓝 CP 互动小程序，情侣 / 搭子间的轻量默契游戏。 | `Web 应用` `社群项目` | [@MuChengZJU](https://github.com/MuChengZJU) |
+| [Red Blue CP](https://github.com/MuChengZJU/red-blue-cp) | 把 B 站和小红书的视频 / 图文内容转成 Markdown 知识库。 | `AI 工具` `效率工具` | [@MuChengZJU](https://github.com/MuChengZJU) |
 | [Flash Idea](https://github.com/MuChengZJU/flash-idea) | 零摩擦语音捕捉管道，随时说一句就记下来。Tauri 2.0 桌面应用。 | `效率工具` `AI 工具` | [@MuChengZJU](https://github.com/MuChengZJU) |
 
 > **标签参考**：`AI 工具` · `开发工具` · `科研代码` · `课程项目` · `Web 应用` · `移动应用` · `硬件 / 嵌入式` · `设计 / 创意` · `效率工具` · `社群项目` · `其他`
