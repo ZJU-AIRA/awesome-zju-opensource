@@ -8,12 +8,12 @@
 
 | 项目 | 简介 | 方向 | 作者 / 团队 |
 | --- | --- | --- | --- |
-| [Enter Screen Log](https://github.com/MuChengZJU/enter-screen-log) | 按 Enter 自动截屏的小工具（macOS + Windows），给后续 AI 分析或做教程用。 | `效率工具` | [@MuChengZJU](https://github.com/MuChengZJU) |
-| [Red Blue CP](https://github.com/MuChengZJU/red-blue-cp) | 把 B 站和小红书的视频 / 图文内容转成 Markdown 知识库。 | `AI 工具` `效率工具` | [@MuChengZJU](https://github.com/MuChengZJU) |
-| [Flash Idea](https://github.com/MuChengZJU/flash-idea) | 零摩擦语音捕捉管道，随时说一句就记下来。Tauri 2.0 桌面应用。 | `效率工具` `AI 工具` | [@MuChengZJU](https://github.com/MuChengZJU) |
-| [SimpleLLMFunc](https://github.com/NiJingzhe/SimpleLLMFunc) | 把 LLM 调用包装成普通 Python 函数，用 docstring 当 prompt，30 行代码就能搭一个带工具调用的 Agent。 | `AI 工具` `开发工具` | [@NiJingzhe](https://github.com/NiJingzhe) |
-| [Lambda](https://github.com/So3Lab/Lambda) | 本地优先的编程 Agent，基于 SimpleLLMFunc 构建，内置持久 Python REPL、文件工具和 TUI 界面。 | `AI 工具` `开发工具` | [@NiJingzhe](https://github.com/NiJingzhe) |
-| [TermPDF](https://github.com/NiJingzhe/TermPDF) | 终端里的 PDF 阅读器，Rust 实现，支持平滑滚动、搜索、链接跳转、演示模式和暗色主题。 | `开发工具` `效率工具` | [@NiJingzhe](https://github.com/NiJingzhe) [@NormalAlkene](https://github.com/NormalAlkene) |
+| [Enter Screen Log](https://github.com/MuChengZJU/enter-screen-log) | 按 Enter **自动截屏**的小工具（macOS + Windows），给后续 AI 分析或做教程用。 | `效率工具` | [@MuChengZJU](https://github.com/MuChengZJU) |
+| [Red Blue CP](https://github.com/MuChengZJU/red-blue-cp) | 把 **B 站和小红书**的视频 / 图文内容转成 **Markdown 知识库**。 | `AI 工具` `效率工具` | [@MuChengZJU](https://github.com/MuChengZJU) |
+| [Flash Idea](https://github.com/MuChengZJU/flash-idea) | **零摩擦语音捕捉**管道，随时说一句就记下来。Tauri 2.0 桌面应用。 | `效率工具` `AI 工具` | [@MuChengZJU](https://github.com/MuChengZJU) |
+| [SimpleLLMFunc](https://github.com/NiJingzhe/SimpleLLMFunc) | 把 LLM 调用包装成**普通 Python 函数**，用 docstring 当 prompt，30 行代码就能搭一个带工具调用的 Agent。 | `AI 工具` `开发工具` | [@NiJingzhe](https://github.com/NiJingzhe) |
+| [Lambda](https://github.com/So3Lab/Lambda) | **本地优先的编程 Agent**，基于 SimpleLLMFunc 构建，内置持久 Python REPL、文件工具和 TUI 界面。 | `AI 工具` `开发工具` | [@NiJingzhe](https://github.com/NiJingzhe) |
+| [TermPDF](https://github.com/NiJingzhe/TermPDF) | **终端里的 PDF 阅读器**，Rust 实现，支持平滑滚动、搜索、链接跳转、演示模式和暗色主题。 | `开发工具` `效率工具` | [@NiJingzhe](https://github.com/NiJingzhe) [@NormalAlkene](https://github.com/NormalAlkene) |
 
 > **标签参考**：`AI 工具` · `开发工具` · `科研代码` · `课程项目` · `Web 应用` · `移动应用` · `硬件 / 嵌入式` · `设计 / 创意` · `效率工具` · `社群项目` · `其他`
 
