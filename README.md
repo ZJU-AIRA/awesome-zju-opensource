@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="浙大开源项目集" width="100%">
+</p>
+
 # 浙大开源项目集
 
 > 收录浙大学生、校友与社群成员开发的开源项目。发现 ZJUer 正在创造的好东西。
